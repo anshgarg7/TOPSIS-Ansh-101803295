@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     install_requires=['pandas','numpy==1.19.3'],
-    url="",
+    url="https://github.com/anshgarg7/TOPSIS-Ansh-101803295",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
