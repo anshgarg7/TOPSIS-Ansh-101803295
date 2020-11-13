@@ -19,7 +19,7 @@ Open Terminal and input the following commands
 
 To get started quickly, just use the following:
 
->> from TOPSIS-Ansh-101803295.topsis import topsis <br>
+>> from TOPSIS_Ansh_101803295.topsis import topsis <br>
 >> topsis('inputfilename','Weights','Impacts','Outputfilename')
 
 make ensure the weights and impacts should be in ""
