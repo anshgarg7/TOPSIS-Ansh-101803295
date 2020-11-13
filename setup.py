@@ -10,7 +10,7 @@ setuptools.setup(
     author="Ansh Garg",
     author_email="anshgarg7@gmail.com",
     description="The Technique for Order of Preference by Similarity to the Ideal Solution",
-    long_description=long_description,
+    long_description=README,
     long_description_content_type="text/markdown",
     install_requires=['pandas','numpy==1.19.3'],
     url="https://github.com/anshgarg7/TOPSIS-Ansh-101803295",
