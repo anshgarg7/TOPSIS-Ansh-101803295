@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TOPSIS_Ansh_101803295",
-    version="1.0.0",
+    version="1.0.1",
     author="Ansh Garg",
     author_email="anshgarg7@gmail.com",
     description="The Technique for Order of Preference by Similarity to the Ideal Solution",
